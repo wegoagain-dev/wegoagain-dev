@@ -1,12 +1,6 @@
 ###
 <h1>I'm Tawfiq (wegoagain)</h1>
-<p>A Cloud & Devops Engineer always looking to improve any delivery!</p>
-
-<p>Passionate about bridging development and operations.</p>
-
-<p>I enjoy automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud solutions.</p>
-
-<p>I love the challenge of making deployments seamless and systems more reliable.</p>
+<p>Learning & Improving on bridging Dev and Ops to build faster, more reliable infrastructure daily. I automate workflows using Terraform, K8s and GitHub Actions, while currently deep diving into scalable system design.</p>
 
 <h2>🚀 Tech Stack I Use:</h2>
 
@@ -15,12 +9,3 @@
 <h2>⚡️ Where to find me:</h2>
 <p><a target="_blank" href="https://x.com/wegoagain_dev" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/tawfiq-a-379746198/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<h2>📊 Github stats:</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wegoagain-dev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"></a>
-</p>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wegoagain-dev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"></a>
-</p>
-<img align="center" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NveDB6M3Q2eDcxeHE1eTdvMWUwdng4and1ZXd6eWEydW9mOGhucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif"  />
-
