@@ -1,6 +1,8 @@
 ###
 <h1>I'm Tawfiq (wegoagain)</h1>
-<p>Learning & Improving on bridging Dev and Ops to build faster, more reliable infrastructure daily. I automate workflows using Terraform, K8s and GitHub Actions, while currently deep diving into scalable system design.</p>
+<p>Passionate about bridging development and operations. I enjoy automating infrastructure with Terraform, optimising CI/CD pipelines with Github Actions, and deploying containerised applications on Kubernetes.</p>
+<p>I love the challenge of reducing deployment times, improving system reliability, and solving complex infrastructure problems, I'm currently deep diving into scalable system design</p>
+<p></p>
 
 <h2>🚀 Tech Stack I Use:</h2>
 
