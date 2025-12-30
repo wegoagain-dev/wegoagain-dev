@@ -6,8 +6,6 @@
   <br />
   <br />
 
-  <h1>Hey, I'm Tawfiq</h1>
-
   <p style="max-width: 600px;">
     <strong>DevOps Engineer into infrastructure automation, system design, and making deployments less painful.</strong>
   </p>
