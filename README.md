@@ -26,7 +26,7 @@
   <!-- TECH STACK -->
   <h3>Tools I Work With</h3>
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,aws,terraform,docker,kubernetes,python,vscode,arch,neovim" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,aws,terraform,docker,kubernetes,python,vscode" alt="My Skills" />
 
   <br />
   <br />
