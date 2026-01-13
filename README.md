@@ -14,8 +14,6 @@
 <p>
   <em>I write about what I build and learn along the way.</em>
 </p>
-<br />
-<br />
  <h2>🛠️ Tools & Technologies</h2>
 <br />
 <p>
@@ -32,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
-<br />
-<br />
  <h2>📫 Connect With Me</h2>
 <br />
 <p>
