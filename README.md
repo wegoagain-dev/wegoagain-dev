@@ -4,13 +4,7 @@
 <br />
 <br />
 <p style="max-width: 600px;">
-  <strong>DevOps Engineer into infrastructure automation, system design, and making deployments less painful.</strong>
-</p>
-<p style="max-width: 600px;">
-  I spend most of my time automating infrastructure with <strong>Terraform</strong>,
-  setting up CI/CD pipelines with <strong>GitHub Actions</strong>, and running
-  containerised workloads on <strong>Kubernetes</strong>.
-  Lately, I've been getting into system design, distributed systems, and database scaling.
+Hi, I'm Tawfiq. I'm a DevOps Engineer passionate about building reliable infrastructure and scalable systems. My work focuses on bridging the gap between complex system design and practical automation, with a growing interest in optimising AI workflows.
 </p>
 <p>
   <em>I write about what I build and learn along the way.</em>
