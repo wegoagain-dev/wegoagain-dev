@@ -4,10 +4,10 @@
 <br />
 <br />
 <p style="max-width: 600px;">
-Hi, I'm Tawfiq. I'm a DevOps Engineer passionate about building reliable infrastructure and scalable systems. My work focuses on bridging the gap between complex system design and practical automation, with a growing interest in optimising AI workflows.
+A DevOps Engineer that likes building reliable infrastructure and scalable systems. Currently deep into AWS and Kubernetes also exploring how AI can make infrastructure automation efficient.
 </p>
 <p>
-  <em>I write about what I build and learn along the way.</em>
+  <em>I write about what I'm learning and building along the way.</em>
 </p>
  <h2>🛠️ Tools & Technologies</h2>
 <br />
