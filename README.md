@@ -18,7 +18,6 @@
   <p>
     <em>I write about what I'm learning and building along the way.</em>
   </p>
-  <br />
   <h2>What I Work With</h2>
   
   <p>
@@ -37,7 +36,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </p>
-  <br />
   <h2>Deep Diving In:</h2>
   <p>
     <img src="https://img.shields.io/badge/AI%20Infrastructure-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI Infrastructure"/>
