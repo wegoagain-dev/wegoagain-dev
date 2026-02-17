@@ -10,7 +10,6 @@
   </p>
   <img width="100%" height="auto" style="max-width: 1000px;" alt="DevOps Engineer - Building reliable infrastructure and scalable systems" src="https://github.com/user-attachments/assets/a327a7eb-c8b0-4387-926e-c66db217d9c1" />
   
-  <br /><br />
   
   <p style="max-width: 600px;">
     A DevOps Engineer that likes building reliable infrastructure and scalable systems. Currently deep into AWS and Kubernetes also exploring how AI can make infrastructure automation efficient.
