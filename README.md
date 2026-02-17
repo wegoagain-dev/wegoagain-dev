@@ -18,7 +18,7 @@
   <p>
     <em>I write about what I'm learning and building along the way.</em>
   </p>
-  <h2>What I Work With</h2>
+  <h2>What I Work With:</h2>
   
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
