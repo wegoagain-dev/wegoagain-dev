@@ -2,7 +2,6 @@
   <h2>Hey I'm Tawfiq 👋</h2>
   
   <p align="center">
-    <a href="https://github.com/wegoagain-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/tawfiq-a-379746198/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://x.com/wegoagain_dev"><img src="https://img.shields.io/badge/X(Twitter)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
     <a href="https://substack.com/@wegoagaindev"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
