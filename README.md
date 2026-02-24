@@ -1,12 +1,5 @@
 <div align="center">
   <h2>Hey I'm Tawfiq 👋</h2>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/tawfiq-a-379746198/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://x.com/wegoagain_dev"><img src="https://img.shields.io/badge/X(Twitter)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-    <a href="https://substack.com/@wegoagaindev"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
-    <a href="mailto:tawfiqrahman00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
   <img width="100%" height="auto" style="max-width: 1000px;" alt="DevOps Engineer - Building reliable infrastructure and scalable systems" src="https://github.com/user-attachments/assets/a327a7eb-c8b0-4387-926e-c66db217d9c1" />
   
   
@@ -40,5 +33,12 @@
     <img src="https://img.shields.io/badge/AI%20Infrastructure-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI Infrastructure"/>
     <img src="https://img.shields.io/badge/Platform%20Engineering-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Platform Engineering"/>
     <img src="https://img.shields.io/badge/GitOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="GitOps"/>
+  </p>
+  <h2>Contact Me</h2>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/tawfiq-a-379746198/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/wegoagain_dev"><img src="https://img.shields.io/badge/X(Twitter)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+    <a href="https://substack.com/@wegoagaindev"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
+    <a href="mailto:tawfiqrahman00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
